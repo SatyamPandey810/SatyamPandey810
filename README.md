@@ -31,11 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="
-display: flex;
-gap: 35px;
-padding: 38px;
-"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer"> <img
@@ -61,6 +57,16 @@ padding: 38px;
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=satyampandey810&show_icons=true&locale=en&layout=compact"
+        alt="satyampandey810" /></p>
+
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=satyampandey810&show_icons=true&locale=en"
+        alt="satyampandey810" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyampandey810&"
+        alt="satyampandey810" /></p>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=satyampandey810&show_icons=true&locale=en&layout=compact"
         alt="satyampandey810" /></p>
